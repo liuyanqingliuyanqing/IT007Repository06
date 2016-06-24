@@ -12,6 +12,7 @@
 {
 
     NSString *name;
+    float height;
 
 }
 @end
