@@ -9,7 +9,11 @@
 #import "AppDelegate.h"
 
 @interface AppDelegate ()
+{
 
+    NSString *name;
+
+}
 @end
 
 @implementation AppDelegate
